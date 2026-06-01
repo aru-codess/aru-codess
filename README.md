@@ -111,4 +111,4 @@
 <!-- language stats HTML -->
 <img src="language-stats/leaderboard_by_lines.png" alt="Top Languages" align="center"/>
 
-<img src="https://zane-nostalgia.kiyo-n-zane.com/scenes/noise/api?height=400&width=2600&bannerText=And+then+there+was+no+looking+back...✨" alt="Banner" align="center" />
+<img src="https://zane-nostalgia.kiyo-n-zane.com/scenes/noise/api?height=400&width=2600&bannerText=And+then+there+was+no+looking+back...%E2%9C%A8" alt="Banner" align="center" />
