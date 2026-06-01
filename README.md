@@ -15,7 +15,7 @@
 ========================= -->
 <br>
 
-# Tech Stack
+<h2 align="center">Tech Stack</h2>
 
 ### Languages
 
@@ -103,10 +103,12 @@
 </p>
 
 ---
+<h2 align="center">GitHub Stats</h2>
 
 <img src="https://streak-stats.demolab.com?user=aru-codess&theme=blueberry-duo&hide_border=true&border_radius=50&card_width=700&card_height=170" alt="GitHub Streak" align="center"/>
 
-<!-- language state HTML -->
+<h2 align="center">Language Stats</h2>
+<!-- language stats HTML -->
 <img src="language-stats/leaderboard_by_lines.png" alt="Top Languages" align="center"/>
 
 <img src="https://zane-nostalgia.kiyo-n-zane.com/scenes/noise/api?height=400&width=2600&bannerText=And+then+there+was+no+looking+back...🔥" alt="Banner" align="center" />
