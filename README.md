@@ -106,4 +106,4 @@
 
 <img src="https://streak-stats.demolab.com?user=aru-codess&theme=blueberry-duo&hide_border=true&border_radius=50&card_width=700&card_height=170" alt="GitHub Streak" align="center"/>
 
-![Language Stats](stats/leaderboard_by_lines.png)
+![Language Stats](stats\leaderboard_by_repos.png)
