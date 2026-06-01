@@ -1,4 +1,4 @@
-<img align="center" width="100%" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/noise/api?height=400&width=2600&bannerText=It+all+started+with+'Hello,+World'+🍀" />
+<img align="center" width="100%" alt="Header Banner" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/noise/api?height=400&width=2600&bannerText=It+all+started+with+%27Hello,+World%27+%F0%9F%8D%80"/>
 
 <p align="center">
   <a href="https://x.com/aru_codes">X</a> •
@@ -111,4 +111,4 @@
 <!-- language stats HTML -->
 <img src="language-stats/leaderboard_by_lines.png" alt="Top Languages" align="center"/>
 
-<img src="https://zane-nostalgia.kiyo-n-zane.com/scenes/noise/api?height=400&width=2600&bannerText=And+then+there+was+no+looking+back...%E2%9C%A8" alt="Banner" align="center" />
+<img src="https://zane-nostalgia.kiyo-n-zane.com/scenes/noise/api?height=400&width=2600&bannerText=And+then+there+was+no+looking+back...%E2%9C%A8" alt="Footer Banner" align="center" />
