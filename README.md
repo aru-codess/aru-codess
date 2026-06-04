@@ -56,13 +56,19 @@
 
 ---
 
-### Databases
+### Databases & ORMs
 
 <p>
 <img src="https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb&logoColor=00ED64&labelColor=0B2E27" height="22" />
-<img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=FFFFFF&labelColor=4479A1" height="22" />
 <img src="https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis&logoColor=FFFFFF&labelColor=DC382D" height="22" />
+<img src="https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=FFFFFF&labelColor=4479A1" height="22" />
+<img src="https://img.shields.io/badge/Appwrite-black?style=for-the-badge&logo=appwrite&logoColor=FFFFFF&labelColor=FD366E" height="22" />
 <img src="https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=sqlite&logoColor=FFFFFF&labelColor=052E44" height="22" />
+<img
+  src="https://img.shields.io/badge/SQLAlchemy-black?style=for-the-badge&logo=sqlalchemy&logoColor=FFFFFF&labelColor=D71F00"
+  height="22"
+/>
+
 </p>
 
 ---
@@ -100,6 +106,26 @@
 <img src="https://img.shields.io/badge/Postman-black?style=for-the-badge&logo=postman&logoColor=FFFFFF&labelColor=FF6C37" height="22" />
 <img src="https://img.shields.io/badge/NPM-black?style=for-the-badge&logo=npm&logoColor=FFFFFF&labelColor=CB3837" height="22" />
 <img src="https://img.shields.io/badge/Nodemon-black?style=for-the-badge&logo=nodemon&logoColor=FFFFFF&labelColor=76D04B" height="22" />
+</p>
+
+---
+
+### Design 
+
+<p>
+
+
+<img
+  src="https://custom-icon-badges.demolab.com/badge/Canva-black.svg?logo=canva&logoColor=white&labelColor=00C4CC"
+  height="22"
+/>
+<img
+  src="https://img.shields.io/badge/Draw.io-black?style=for-the-badge&logo=diagrams.net&logoColor=FFFFFF&labelColor=F08705"
+  height="22"
+/>
+
+
+
 </p>
 
 ---
