@@ -131,7 +131,7 @@
 ---
 <h2 align="center">GitHub Stats</h2>
 
-<img src="https://streak-stats.demolab.com?user=aru-codess&theme=blueberry-duo&hide_border=true&border_radius=50&card_width=700&card_height=170" alt="GitHub Streak" align="center"/>
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
 <h2 align="center">Language Stats</h2>
 <!-- language stats HTML -->
