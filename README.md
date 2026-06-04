@@ -137,4 +137,23 @@
 <!-- language stats HTML -->
 <img src="language-stats/leaderboard_by_lines.png" alt="Top Languages" align="center"/>
 
+
+
+<h2 align="center">Connect With Me</h2>
+
+<p align="center">
+  <a href="mailto:anurupbhowmick.official@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=D14836" height="22" />
+  </a>
+  <a href="https://x.com/aru_codes">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=FFFFFF&labelColor=000000" height="22" />
+  </a>
+  <a href="https://www.linkedin.com/in/anurup-bhowmick"> <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-black.svg?logo=linkedin-white&labelColor=0077B5" height="22" /> </a>
+  <a href="https://medium.com/@anurupbhowmick">
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=FFFFFF&labelColor=12100E" height="22" />
+  </a>
+</p>
+
+
+
 <img src="https://zane-nostalgia.kiyo-n-zane.com/scenes/noise/api?height=400&width=2600&bannerText=And+then+there+was+no+looking+back...%E2%9C%A8" alt="Footer Banner" align="center" />
