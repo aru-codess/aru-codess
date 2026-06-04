@@ -110,11 +110,9 @@
 
 ---
 
-### Design 
+### Design
 
 <p>
-
-
 <img
   src="https://custom-icon-badges.demolab.com/badge/Canva-black.svg?logo=canva&logoColor=white&labelColor=00C4CC"
   height="22"
@@ -123,9 +121,6 @@
   src="https://img.shields.io/badge/Draw.io-black?style=for-the-badge&logo=diagrams.net&logoColor=FFFFFF&labelColor=F08705"
   height="22"
 />
-
-
-
 </p>
 
 ---
@@ -141,7 +136,8 @@
 
 <h2 align="center">Connect With Me</h2>
 
-<p align="center">
+<!-- link style none -->
+<p align="center" style="text-decoration: none;">
   <a href="mailto:anurupbhowmick.official@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=D14836" height="22" />
   </a>
