@@ -129,7 +129,7 @@
   <img src="./profile/streak.svg" alt="GitHub Streak" />
 </div>
 
-<h2 align="center">Code DNA ⋄</h2>
+<h2 align="center">Code DNA ⌬</h2>
 <!-- language stats HTML -->
 <img src="language-stats/leaderboard_by_lines.png" alt="Top Languages" align="center"/>
 
