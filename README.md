@@ -65,10 +65,9 @@
 <img src="https://img.shields.io/badge/Appwrite-black?style=for-the-badge&logo=appwrite&logoColor=FFFFFF&labelColor=FD366E" height="22" />
 <img src="https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=sqlite&logoColor=FFFFFF&labelColor=052E44" height="22" />
 <img
-  src="https://img.shields.io/badge/SQLAlchemy-black?style=for-the-badge&logo=sqlalchemy&logoColor=FFFFFF&labelColor=D71F00"
-  height="22"
-/>
-
+  src="https://img.shields.io/badge/Mongoose-black?style=for-the-badge&logo=mongoose&logoColor=FFFFFF&labelColor=F04D35" height="22"/>
+<img
+  src="https://img.shields.io/badge/SQLAlchemy-black?style=for-the-badge&logo=sqlalchemy&logoColor=FFFFFF&labelColor=D71F00" height="22"/>
 </p>
 
 ---
