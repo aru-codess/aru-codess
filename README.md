@@ -14,7 +14,9 @@
      TECH STACK
 ========================= -->
 <br>
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=aru-codess&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/vinodjangid07)
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=aru-codess&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/aru-codess)
+
 <br>
 
 <h2 align="center">Crafted With ◈</h2>
