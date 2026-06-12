@@ -1,3 +1,6 @@
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=aru-codess&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/aru-codess)
+
+<br>
 <img align="center" width="100%" alt="Header Banner" src="https://zane-nostalgia.kiyo-n-zane.com/scenes/noise/api?height=400&width=2600&bannerText=It+all+started+with+%27Hello,+World%27+%F0%9F%8D%80"/>
 
 <p align="center">
@@ -13,10 +16,6 @@
 <!-- =========================
      TECH STACK
 ========================= -->
-<br>
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=aru-codess&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/aru-codess)
-
 <br>
 
 <h2 align="center">Crafted With ◈</h2>
